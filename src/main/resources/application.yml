@@ -37,5 +37,6 @@ com:
   bit:
     wonders:
       app:
+        version: 1.0
         message: "Hello World from AZURE"
 
